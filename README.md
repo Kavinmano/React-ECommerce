@@ -7,7 +7,7 @@ This project demonstrates user-friendly product browsing, cart management, and a
 
 ## 🚀 Features  
 
-- ✅ User Authentication (Register/Login with JWT)  
+
 - ✅ Browse Products with Images, Price & Details  
 - ✅ Add to Cart / Remove from Cart  
 - ✅ Product Search & Filtering  
@@ -19,13 +19,10 @@ This project demonstrates user-friendly product browsing, cart management, and a
 
 ## 🛠️ Tech Stack  
 
-- **Frontend**: React.js, React Router, TailwindCSS / Bootstrap  
+- **Frontend**: React.js, React Router, Bootstrap  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB (Mongoose ORM)  
-- **Authentication**: JSON Web Token (JWT), Bcrypt  
-- **Others**: Axios, dotenv, cors  
 
----
 
-## 📂 Project Structure  
+ 
 
